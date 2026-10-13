@@ -1,4 +1,3 @@
-```gitignore
 # Dependencies
 node_modules/
 
@@ -24,4 +23,3 @@ coverage/
 
 # Optional local files
 *.local
-```
